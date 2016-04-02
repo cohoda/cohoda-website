@@ -11,6 +11,7 @@
 
 	<link href="/css/bootstrap.min.css" rel="stylesheet">
 	<link href="/css/cohoda.css" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="<?php bloginfo('template_directory'); ?>/style.css" media="screen" />
 
 	<!-- Custom Fonts -->
 	<link href="/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
