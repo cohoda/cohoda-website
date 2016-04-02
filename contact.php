@@ -4,7 +4,9 @@
         <div class="row">
             <div class="col-lg-12 text-center">
                 <h2 class="section-heading">Contact</h2>
-                <h3 class="section-subheading text-muted">Get in touch and let us help you with something cool.</h3>
+                <h3 class="section-heading">Get in touch and let us help you with something cool.</h3>
+                <br />
+                <p class="section-heading" style="font-size: 150%; margin-top: 0px; margin-bottom: 50px;"> <i class="fa fa-phone"></i> &nbsp; +44(0)203 8287118</p>
             </div>
         </div>
         <div class="row">
