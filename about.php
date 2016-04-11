@@ -1,4 +1,4 @@
-<!-- About Section -->
+﻿<!-- About Section -->
 <section id="about">
     <div class="container">
         <div class="row">
@@ -25,7 +25,7 @@
 
             </div>
             <div class="col-md-6">
-                <p>We work with companies of all sizes and operating status, from start-ups to world wide corporates, always taking the time to learn about our clients and their needs but also about the service expectations of their customers.
+                <p>We work with companies of all sizes and operating status, from start-ups to world-wide corporate organisations, always taking the time to learn about our clients and their needs but also about the service expectations of their customers.
                 </p>
                 <p>We’re able to provide both on site consultation, or remote project delivery, dependent on client requirements.</p>
             </div>
