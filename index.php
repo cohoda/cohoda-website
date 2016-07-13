@@ -73,19 +73,6 @@
                         </a>
                     </div>
 
-<? /*
-                    <div class="col-md-4 col-sm-6">
-                        <a href="#">
-                            <img src="img/logos/designmodo.jpg" class="img-responsive img-centered" alt="">
-                        </a>
-                    </div>
-
-                    <div class="col-md-4 col-sm-6">
-                        <a href="#">
-                            <img src="img/logos/themeforest.jpg" class="img-responsive img-centered" alt="">
-                        </a>
-                    </div>
-                    <? */ ?>
                 </div>
             </div>
         </aside>
