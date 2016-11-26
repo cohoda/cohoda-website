@@ -7,9 +7,14 @@
                 <h3 class="section-subheading text-muted">Some of our previous work.</h3>
             </div>
         </div>
+
+        <div class="row" style="text-align: center; padding-bottom: 50px">
+            <h3 class="section-heading">Websites</h3>
+        </div>
+
         <div class="row">
 
-            <div class="col-md-4 col-sm-6 portfolio-item">
+            <div class="col-md-6 col-sm-6 portfolio-item">
                 <a href="#workModalGardeningExpress" class="portfolio-link" data-toggle="modal">
                     <div class="portfolio-hover">
                         <div class="portfolio-hover-content">
@@ -24,7 +29,25 @@
                 </div>
             </div>
 
-            <div class="col-md-4 col-sm-6 portfolio-item">
+            <div class="col-md-6 col-sm-6 portfolio-item">
+            <a href="#workModalMapleTreeCarpentry" class="portfolio-link" data-toggle="modal">
+                    <div class="portfolio-hover">
+                        <div class="portfolio-hover-content">
+                            <i class="fa fa-plus fa-3x"></i>
+                        </div>
+                    </div>
+                    <img src="img/portfolio/maple-tree-carpentry/thumb.png" class="img-responsive" alt="">
+                </a>
+                <div class="portfolio-caption">
+                    <h4>Maple Tree Carpentry</h4>
+                    <p class="text-muted">Website Design</p>
+                </div>
+            </div>
+
+        </div>
+
+        <div class = "row">
+            <div class="col-md-6 col-sm-6 portfolio-item">
                 <a href="#workModalGemcleanDetailing" class="portfolio-link" data-toggle="modal">
                     <div class="portfolio-hover">
                         <div class="portfolio-hover-content">
@@ -38,8 +61,7 @@
                     <p class="text-muted">Website Design</p>
                 </div>
             </div>
-
-            <div class="col-md-4 col-sm-6 portfolio-item">
+            <div class="col-md-6 col-sm-6 portfolio-item">
                 <a href="#workModalSurelock" class="portfolio-link" data-toggle="modal">
                     <div class="portfolio-hover">
                         <div class="portfolio-hover-content">
@@ -53,85 +75,6 @@
                     <p class="text-muted">Website Design &amp; Infrastructure Management</p>
                 </div>
             </div>
-        <? /*
-
-                    <div class="col-md-4 col-sm-6 portfolio-item">
-                        <a href="#workModalPlantstore" class="portfolio-link" data-toggle="modal">
-                            <div class="portfolio-hover">
-                                <div class="portfolio-hover-content">
-                                    <i class="fa fa-plus fa-3x"></i>
-                                </div>
-                            </div>
-                            <img src="img/portfolio/plantstore/thumb.png" class="img-responsive" alt="Plantstore">
-                        </a>
-                        <div class="portfolio-caption">
-                            <h4>PlantStore.co.uk</h4>
-                            <p class="text-muted">Magento Based Ecommerce Solution</p>
-                        </div>
-                    </div>
-
-                    <div class="col-md-4 col-sm-6 portfolio-item">
-                        <a href="#workModalFidelityCheckOnline" class="portfolio-link" data-toggle="modal">
-                            <div class="portfolio-hover">
-                                <div class="portfolio-hover-content">
-                                    <i class="fa fa-plus fa-3x"></i>
-                                </div>
-                            </div>
-                            <img src="img/portfolio/fidelitycheckonline/thumb.png" class="img-responsive" alt="Plantstore">
-                        </a>
-                        <div class="portfolio-caption">
-                            <h4>FidelityCheckOnline.com</h4>
-                            <p class="text-muted">XXXXXX</p>
-                        </div>
-                    </div>
-
-                    <div class="col-md-4 col-sm-6 portfolio-item">
-                        <a href="#workModalHovis" class="portfolio-link" data-toggle="modal">
-                            <div class="portfolio-hover">
-                                <div class="portfolio-hover-content">
-                                    <i class="fa fa-plus fa-3x"></i>
-                                </div>
-                            </div>
-                            <img src="img/portfolio/hovis/thumb.png" class="img-responsive" alt="Plantstore">
-                        </a>
-                        <div class="portfolio-caption">
-                            <h4>Hovis</h4>
-                            <p class="text-muted">xxxxxxx</p>
-                        </div>
-                    </div>
-
-                    <div class="col-md-4 col-sm-6 portfolio-item">
-                        <a href="#workModalIAAF" class="portfolio-link" data-toggle="modal">
-                            <div class="portfolio-hover">
-                                <div class="portfolio-hover-content">
-                                    <i class="fa fa-plus fa-3x"></i>
-                                </div>
-                            </div>
-                            <img src="img/portfolio/iaaf/thumb.png" class="img-responsive" alt="IAAF">
-                        </a>
-                        <div class="portfolio-caption">
-                            <h4>IAAF.org</h4>
-                            <p class="text-muted">xxxxxxx</p>
-                        </div>
-                    </div>
-
-                    <div class="col-md-4 col-sm-6 portfolio-item">
-                        <a href="#workModalWCD" class="portfolio-link" data-toggle="modal">
-                            <div class="portfolio-hover">
-                                <div class="portfolio-hover-content">
-                                    <i class="fa fa-plus fa-3x"></i>
-                                </div>
-                            </div>
-                            <img src="img/portfolio/iaaf/thumb.png" class="img-responsive" alt="We Continue (Digital)">
-                        </a>
-                        <div class="portfolio-caption">
-                            <h4>We Continue (Digital)</h4>
-                            <p class="text-muted">Graphic Design</p>
-                        </div>
-                    </div>
-
-
-        */?>
 
         </div>
 
@@ -141,3 +84,4 @@
 <?php include('work-modal-gardening-express.php'); ?>
 <?php include('work-modal-gemclean-detailing.php'); ?>
 <?php include('work-modal-surelock.php'); ?>
+<?php include('work-modal-maple-tree-carpentry.php'); ?>
