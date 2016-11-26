@@ -21,7 +21,7 @@
                             <i class="fa fa-plus fa-3x"></i>
                         </div>
                     </div>
-                    <img src="img/portfolio/gardening-express/thumb.png" class="img-responsive" alt="">
+                    <img src="img/work/gardening-express/thumb.png" class="img-responsive" alt="">
                 </a>
                 <div class="portfolio-caption">
                     <h4>Gardening Express</h4>
@@ -36,7 +36,7 @@
                             <i class="fa fa-plus fa-3x"></i>
                         </div>
                     </div>
-                    <img src="img/portfolio/maple-tree-carpentry/thumb.png" class="img-responsive" alt="">
+                    <img src="img/work/maple-tree-carpentry/thumb.png" class="img-responsive" alt="">
                 </a>
                 <div class="portfolio-caption">
                     <h4>Maple Tree Carpentry</h4>
@@ -54,7 +54,7 @@
                             <i class="fa fa-plus fa-3x"></i>
                         </div>
                     </div>
-                    <img src="img/portfolio/gemclean-detailing/thumb.png" class="img-responsive" alt="">
+                    <img src="img/work/gemclean-detailing/thumb.png" class="img-responsive" alt="">
                 </a>
                 <div class="portfolio-caption">
                     <h4>Gemclean Detailing</h4>
@@ -68,7 +68,7 @@
                             <i class="fa fa-plus fa-3x"></i>
                         </div>
                     </div>
-                    <img src="img/portfolio/surelock/thumb.png" class="img-responsive" alt="">
+                    <img src="img/work/surelock/thumb.png" class="img-responsive" alt="">
                 </a>
                 <div class="portfolio-caption">
                     <h4>Surelock</h4>

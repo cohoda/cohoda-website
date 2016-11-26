@@ -17,10 +17,10 @@
 
                         <div class="row">
                             <div class="col-sm-6">
-                                <img class="img-responsive img-centered" src="img/portfolio/maple-tree-carpentry/full.png" alt="Maple Tree Carpentry Website">
+                                <img class="img-responsive img-centered" src="img/work/maple-tree-carpentry/full.png" alt="Maple Tree Carpentry Website">
                             </div>
                             <div class="col-sm-6">
-                                <img class="img-responsive img-centered" src="img/portfolio/maple-tree-carpentry/full2.png" alt="Maple Tree Carpentry Website">
+                                <img class="img-responsive img-centered" src="img/work/maple-tree-carpentry/full2.png" alt="Maple Tree Carpentry Website">
                             </div>
                         </div>
 
@@ -29,7 +29,7 @@
 
                         <div class="row">
                             <div class="col-sm-12">
-                                <img class="img-responsive img-centered" src="img/portfolio/maple-tree-carpentry/mobile.jpg" alt="Maple Tree Carpentry Website - Mobile View">
+                                <img class="img-responsive img-centered" src="img/work/maple-tree-carpentry/mobile.jpg" alt="Maple Tree Carpentry Website - Mobile View">
                             </div>
                         </div>
 

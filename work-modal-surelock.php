@@ -17,10 +17,10 @@
 
                         <div class="row">
                             <div class="col-sm-6">
-                                <img class="img-responsive img-centered" src="img/portfolio/surelock/full1.png" alt="">
+                                <img class="img-responsive img-centered" src="img/work/surelock/full1.png" alt="">
                             </div>
                             <div class="col-sm-6">
-                                <img class="img-responsive img-centered" src="img/portfolio/surelock/full2.png" alt="">
+                                <img class="img-responsive img-centered" src="img/work/surelock/full2.png" alt="">
                             </div>
                         </div>
 
