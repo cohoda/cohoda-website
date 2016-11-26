@@ -14,7 +14,7 @@
                         <h2>Gemclean Detailing</h2>
                         <h4><a href="http://www.gemcleandetailing.co.uk">www.gemcleandetailing.co.uk</a></h4>
                         <p class="item-intro text-muted">Website Design for Berkshires premium vehicle detailing company.</p>
-                        <img class="img-responsive img-centered" src="img/portfolio/gemclean-detailing/full.png" alt="Gemclean Detailing website preview" />
+                        <img class="img-responsive img-centered" src="img/work/gemclean-detailing/full.png" alt="Gemclean Detailing website preview" />
                         <p>Berkshire based premier vehicle detailing company, <a href="http://www.gemcleandetailing.co.uk">Gemclean Detailing</a> required a website to showcase their work.
                             <br /> We delivered them an SEO friendly single page website to show off their quality detailing projects.
                             <br /> The site is heavily optimised for SEO, and it currently ranks very highly in Google for their chosen keywords

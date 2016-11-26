@@ -17,7 +17,7 @@
 
                         <div class="row">
                             <div class="col-sm-12">
-                                <img class="img-responsive img-centered" src="img/portfolio/gardening-express/full2.png" alt="">
+                                <img class="img-responsive img-centered" src="img/work/gardening-express/full2.png" alt="">
                             </div>
 
                         </div>
