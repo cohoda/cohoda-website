@@ -14,17 +14,13 @@
 					</li>
 				</ul>
 			</div>
-			<? /*
 			<div class="col-md-4">
 				<ul class="list-inline quicklinks">
-					<li><a href="#">Privacy Policy</a>
+					<li><a href="/privacy-policy">Privacy Policy</a>
 					</li>
-					<li><a href="#">Terms of Use</a>
-					</li>
+
 				</ul>
 			</div>
-
-			*/ ?>
 		</div>
 	</div>
 </footer>
