@@ -32,6 +32,10 @@
     <meta name="theme-color" content="#ffffff">
     
     <meta property="og:image" content="https://www.cohoda.com/img/ogimg.png" />
+    <meta property="og:url"                content="http://www.nytimes.com/2015/02/19/arts/international/when-great-minds-dont-think-alike.html" />
+    <meta property="og:type"               content="website" />
+    <meta property="og:title"              content="Cohoda LTD - Website Design & Development based in Camberley, Surrey." />
+    <meta property="og:description"        content="We are a boutique agency specialising in all things web and software." />
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
