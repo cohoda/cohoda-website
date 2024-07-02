@@ -25,12 +25,12 @@
 				<li>
 					<a class="page-scroll" href="/#services" data-target="#services">Services</a>
 				</li>
-				<li>
+				<!-- <li>
 					<a class="page-scroll" href="/#work" data-target="#work">Work</a>
 				</li>
 				<li>
 					<a class="page-scroll" href="/#startups" data-target="#startups">Startups</a>
-				</li>
+				</li> -->
 				<li>
 					<a class="page-scroll" href="/#contact" data-target="#contact">Contact</a>
 				</li>

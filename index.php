@@ -66,7 +66,7 @@
         <?php include('about.php'); ?>
         <?php include('services.php'); ?>
         <!-- <?php include('work.php'); ?> -->
-        <?php include('startups.php'); ?>
+        <!-- <?php include('startups.php'); ?> -->
 
         <aside class="clients">
             <div class="container">
